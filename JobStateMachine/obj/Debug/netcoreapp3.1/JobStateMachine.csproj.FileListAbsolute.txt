@@ -1,0 +1,8 @@
+E:\MyStateMachine\JobStateMachine\bin\Debug\netcoreapp3.1\JobStateMachine.deps.json
+E:\MyStateMachine\JobStateMachine\bin\Debug\netcoreapp3.1\JobStateMachine.dll
+E:\MyStateMachine\JobStateMachine\bin\Debug\netcoreapp3.1\JobStateMachine.pdb
+E:\MyStateMachine\JobStateMachine\obj\Debug\netcoreapp3.1\JobStateMachine.AssemblyInfoInputs.cache
+E:\MyStateMachine\JobStateMachine\obj\Debug\netcoreapp3.1\JobStateMachine.AssemblyInfo.cs
+E:\MyStateMachine\JobStateMachine\obj\Debug\netcoreapp3.1\JobStateMachine.dll
+E:\MyStateMachine\JobStateMachine\obj\Debug\netcoreapp3.1\JobStateMachine.pdb
+E:\MyStateMachine\JobStateMachine\obj\Debug\netcoreapp3.1\JobStateMachine.csprojAssemblyReference.cache
